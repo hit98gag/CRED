@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRED/static/css/main.21f89c60.css",
+    "main.js": "/CRED/static/js/main.67d01958.js",
+    "static/js/787.bd788831.chunk.js": "/CRED/static/js/787.bd788831.chunk.js",
+    "index.html": "/CRED/index.html",
+    "main.21f89c60.css.map": "/CRED/static/css/main.21f89c60.css.map",
+    "main.67d01958.js.map": "/CRED/static/js/main.67d01958.js.map",
+    "787.bd788831.chunk.js.map": "/CRED/static/js/787.bd788831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f89c60.css",
+    "static/js/main.67d01958.js"
+  ]
+}
