@@ -1,23 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import { Brandslove } from './components/Brandslove/Brandslove';
+import { CredExperience } from './components/CredExperience/CredExperience';
+import { Credsecurity } from './components/Credsecurity/Credsecurity';
+import { Credstory } from './components/Credstory/Credstory';
+import { Feelspecial } from './components/Fellspecial/Feelspecial';
+import { Header } from './components/Header/Header';
+import { Headsection } from './components/Headingsection/Headsection';
+import { Imagesection } from './components/Imagesection/Imagesection';
+import { Rating } from './components/Rating/Rating';
+import {  Windowpeak } from './components/Windowpeak/Windowpeak';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Headsection />
+      <Imagesection />
+      <Feelspecial/>
+      <Brandslove />
+      <CredExperience />
+      <Windowpeak />
+      <Credsecurity />
+      <Credstory />
+      <Rating />
+     
     </div>
   );
 }

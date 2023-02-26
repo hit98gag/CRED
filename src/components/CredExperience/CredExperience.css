@@ -1,0 +1,31 @@
+.experiencecontainer{
+    height: 100vh;
+    background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg);
+    background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+ .expcont{
+    margin: 0 5rem;
+    width: 80%;
+    height: 90%;
+    
+}
+
+ .expcont h1{
+    padding-top: 1rem;
+    font-size: 80px;
+}
+ .expcont h2{
+    font-size: 30px;
+   
+}
+ .expcont p{
+    font-size: 20px;
+    padding-right:9rem;
+
+    padding-bottom: 2rem;
+
+}
