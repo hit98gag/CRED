@@ -4,6 +4,7 @@ import { CredExperience } from './components/CredExperience/CredExperience';
 import { Credsecurity } from './components/Credsecurity/Credsecurity';
 import { Credstory } from './components/Credstory/Credstory';
 import { Feelspecial } from './components/Fellspecial/Feelspecial';
+import { Footer } from './components/Footer/Footer';
 import { Header } from './components/Header/Header';
 import { Headsection } from './components/Headingsection/Headsection';
 import { Imagesection } from './components/Imagesection/Imagesection';
@@ -24,6 +25,8 @@ function App() {
       <Credsecurity />
       <Credstory />
       <Rating />
+      <Footer />
+
      
     </div>
   );
